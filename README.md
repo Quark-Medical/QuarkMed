@@ -1,7 +1,7 @@
 # Quark Med
 
 
-This repository introduces [**QuarkMed**]((./report/QuarkMed_Technical_Report.pdf)), a 32-billion parameter Large Language Model (LLM) developed by Alibaba Group's Quark Medical Team. It is specifically designed to address the complex and high-stakes demands of the medical domain, aiming to provide a robust foundation for applications like AI-powered consultations, diagnostic assistance, and medical search. A standout achievement is its **70% accuracy on the Chinese Medical Licensing Examination**.
+This repository introduces [**QuarkMed**](./report/QuarkMed_Technical_Report.pdf), a 32-billion parameter Large Language Model (LLM) developed by Alibaba Group's Quark Medical Team. It is specifically designed to address the complex and high-stakes demands of the medical domain, aiming to provide a robust foundation for applications like AI-powered consultations, diagnostic assistance, and medical search. A standout achievement is its **70% accuracy on the Chinese Medical Licensing Examination**.
 
 #### Core Contributions
 *   **Comprehensive Data Pipeline:** The model was trained on a massive, curated medical dataset of approximately 1 trillion tokens, including textbooks, clinical guidelines, and research literature, ensuring deep domain knowledge.

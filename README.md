@@ -43,5 +43,15 @@ On the private **CPQExam** (Chinese Health Professional Qualification Examinatio
 | Case Analysis | 43.05% | 23.74% | 48.75% | 37.69% | 49.85% | **58.50%** |
 
 
-We're planning to release our internal benchmark that curated from CPQExam to boost the medical related AI research. Stay tuned. 
+We have released our internal benchmark that curated from CPQExam to boost the medical related AI research. 
+Please consider to cite our work if the tech report or benchmark data is useful:
+
+```
+@article{li2025quarkmed,
+  title={QuarkMed Medical Foundation Model Technical Report},
+  author={Li, Ao and Yan, Bin and Cai, Bingfeng and Li, Chenxi and Zhao, Cunzhong and Yao, Fugen and Liu, Gaoqiang and Jiang, Guanjun and Xu, Jian and Dong, Liang and others},
+  journal={arXiv preprint arXiv:2508.11894},
+  year={2025}
+}
+```
 
